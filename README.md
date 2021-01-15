@@ -14,7 +14,7 @@
 4. Unordered Lists are made using *,+,-,
 5. Numbered lists can be made using 1. ... n. 
 ----
-Where is it applicable
+##Where is it applicable
 - Websites blogs etc
 - Documents/Notes
 - Email
